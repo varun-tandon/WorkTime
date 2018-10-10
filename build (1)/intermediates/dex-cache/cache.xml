@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_2c530ba7f5e97cb8fb8ca972b49274f7f0658b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1b9d560e7b02bfbb1fa1868ec3c5fcec8a1e472f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.7_fe0f21c303657aeb021813c56cc9a462378a5886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_076706e78d3aab2fa46151a88d3eb49adaee1629.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ead0fe80b3711eb527069bdc1af86b7b5a0cb5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_ed0a563a32eae0a8029ca21af8bbc7cf68e3a5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_26b1ee9b7f26fa9a1aa6927f8fe5e7daede38d6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f7f57d9e9b43d5b9cdfd2959a8fa6ae5a035024c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_72b0083c7cbc79c4069855ee663d8144e5576f6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_7c1f21ac4c50b38f9336c0faea63a1753a6fc5b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_194e72bf29aa726bc284752575418f3314d41e4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8f068f0165500ceb32b5289de8bd28d452d1dccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_b2018061d4514fda9afcff9cbe00e3930fdf1c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c601da946750351705d3f387dff890f2ceed8b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_738fca0a19c1e2f6e7dda47847f0a185bfd64ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_c3cb005e752166f6f173c4ec0d34812f8bb20bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.0.2_fa0febb0be6e27c5352b6589166e62e267e68d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4c83554908fad5e233f19c1d800706bf943054a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Varun\Google Drive\Laptop files\Code\Android\AndroidP\HomeworkTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ac0e0a899bf40cad61664a3fb7d6ce77392e3369.jar" />
+    </item>
+
+</items>
